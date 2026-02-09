@@ -8,7 +8,8 @@ public class Book {
 
     // TODO: Implement parameterized constructor
     public Book(String title, String author, int year) {
-        this.title = title
+        this.title = title;
+        this.author = author;
     }
 
     // TODO: Implement copy constructor
